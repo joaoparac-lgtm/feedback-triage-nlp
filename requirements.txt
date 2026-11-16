@@ -1,0 +1,15 @@
+# --- NLP / Hugging Face ---
+transformers>=4.44
+datasets>=2.20
+torch>=2.2
+sentencepiece>=0.2      # tokenizer do mDeBERTa / BERTimbau
+protobuf>=4.25
+
+# --- Dados e interface ---
+pandas>=2.1
+numpy>=1.26
+streamlit>=1.40
+plotly>=5.20
+
+# --- Configuração ---
+python-dotenv>=1.0

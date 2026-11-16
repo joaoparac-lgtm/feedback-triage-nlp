@@ -1,0 +1,201 @@
+id,data,canal,texto,categoria_real
+1,2025-04-25,chat,Esse modelo é compatível com o meu aparelho? Att.,Dúvida sobre produto
+2,2025-01-17,e-mail,Onde encontro o manual de instruções para montar o produto?,Dúvida sobre produto
+3,2025-10-15,chat,A fatura deste mês veio com um valor diferente do contratado. Preciso de ajuda urgente.,Cobrança e pagamento
+4,2025-10-29,telefone,"Prezados, Onde encontro o manual de instruções para montar o produto? Obrigado.",Dúvida sobre produto
+5,2025-05-23,chat,"Oi, A fatura deste mês veio com um valor diferente do contratado. Att.",Cobrança e pagamento
+6,2025-02-19,telefone,"Oi, O site está muito lento e a página de checkout trava.",Problema técnico
+7,2025-10-02,e-mail,"Boa tarde, O produto chegou com a embalagem violada e amassada.",Entrega e logística
+8,2025-11-13,telefone,"Preciso cancelar o contrato, pois não vou mais usar o serviço. Aguardo retorno.",Cancelamento ou reembolso
+9,2025-05-29,e-mail,"Atendimento excelente, o suporte resolveu meu problema em minutos!",Elogio
+10,2025-11-22,telefone,"Oi, O aplicativo fecha sozinho toda vez que tento abrir a tela de pedidos. Obrigado.",Problema técnico
+11,2025-12-26,e-mail,"Olá, O site está muito lento e a página de checkout trava.",Problema técnico
+12,2025-03-25,redes sociais,"Prezados, Adorei o produto, superou minhas expectativas. Parabéns à equipe. Preciso de ajuda urgente.",Elogio
+13,2025-01-29,chat,"Olá, Preciso cancelar o contrato, pois não vou mais usar o serviço.",Cancelamento ou reembolso
+14,2025-04-19,app,"Oi, Meu boleto não foi compensado e já recebi aviso de cobrança. Obrigado.",Cobrança e pagamento
+15,2025-11-26,redes sociais,"Olá, Qual é a diferença entre o plano básico e o plano premium? Att.",Dúvida sobre produto
+16,2025-10-03,telefone,"Olá, Não consigo fazer login, aparece erro 500 depois de digitar a senha.",Problema técnico
+17,2025-04-23,chat,"Boa tarde, Vocês têm esse item disponível em outras cores ou tamanhos? Preciso de ajuda urgente.",Dúvida sobre produto
+18,2025-03-20,chat,"Bom dia! Atendimento excelente, o suporte resolveu meu problema em minutos!",Elogio
+19,2025-11-02,redes sociais,Bom dia! Onde encontro o manual de instruções para montar o produto?,Dúvida sobre produto
+20,2025-02-28,app,"Olá, Muito obrigado pela atenção, foi o melhor atendimento que já tive.",Elogio
+21,2025-03-22,redes sociais,"Oi, O produto chegou com a embalagem violada e amassada.",Entrega e logística
+22,2025-09-17,e-mail,"Prezados, Meu boleto não foi compensado e já recebi aviso de cobrança. Preciso de ajuda urgente.",Cobrança e pagamento
+23,2025-07-11,chat,"Olá, Onde encontro o manual de instruções para montar o produto? Preciso de ajuda urgente.",Dúvida sobre produto
+24,2025-09-08,e-mail,"Oi, Muito obrigado pela atenção, foi o melhor atendimento que já tive.",Elogio
+25,2025-10-18,e-mail,"Olá, Meu boleto não foi compensado e já recebi aviso de cobrança.",Cobrança e pagamento
+26,2025-09-30,chat,"Prezados, O pagamento via Pix foi debitado, mas o sistema continua mostrando pendente.",Cobrança e pagamento
+27,2025-09-28,app,"Prezados, Atualizei o sistema e agora o recurso de relatórios parou de funcionar. Preciso de ajuda urgente.",Problema técnico
+28,2025-06-09,redes sociais,"Preciso cancelar o contrato, pois não vou mais usar o serviço. Att.",Cancelamento ou reembolso
+29,2025-08-20,e-mail,"Prezados, O produto acompanha garantia estendida? Por quanto tempo? Obrigado.",Dúvida sobre produto
+30,2025-10-11,chat,O aplicativo fecha sozinho toda vez que tento abrir a tela de pedidos. Aguardo retorno.,Problema técnico
+31,2025-01-31,chat,"Atendimento excelente, o suporte resolveu meu problema em minutos!",Elogio
+32,2025-05-23,redes sociais,Meu boleto não foi compensado e já recebi aviso de cobrança.,Cobrança e pagamento
+33,2025-10-20,app,"Boa tarde, Não consigo fazer login, aparece erro 500 depois de digitar a senha. Att.",Problema técnico
+34,2025-02-19,redes sociais,Como faço para encerrar minha conta e receber o estorno? Obrigado.,Cancelamento ou reembolso
+35,2025-01-28,e-mail,Bom dia! Recebi apenas um dos três itens que comprei. Obrigado.,Entrega e logística
+36,2025-04-08,app,Bom dia! Meu boleto não foi compensado e já recebi aviso de cobrança.,Cobrança e pagamento
+37,2025-05-08,e-mail,Como faço para encerrar minha conta e receber o estorno?,Cancelamento ou reembolso
+38,2025-10-04,e-mail,"Oi, Preciso cancelar o contrato, pois não vou mais usar o serviço.",Cancelamento ou reembolso
+39,2025-09-04,chat,"Oi, A fatura deste mês veio com um valor diferente do contratado.",Cobrança e pagamento
+40,2025-07-19,telefone,,Cancelamento ou reembolso
+41,2025-10-12,redes sociais,"Olá, Como faço para encerrar minha conta e receber o estorno? Att.",Cancelamento ou reembolso
+42,2025-10-24,app,O site está muito lento e a página de checkout trava.,Problema técnico
+43,2025-09-02,app,"Prezados, Meu boleto não foi compensado e já recebi aviso de cobrança.",Cobrança e pagamento
+44,2025-04-06,e-mail,"Atendimento excelente, o suporte resolveu meu problema em minutos! Preciso de ajuda urgente.",Elogio
+45,2025-10-19,chat,"Adorei o produto, superou minhas expectativas. Parabéns à equipe. Obrigado.",Elogio
+46,2025-12-03,app,"Boa tarde, Atendimento excelente, o suporte resolveu meu problema em minutos! Preciso de ajuda urgente.",Elogio
+47,2025-06-10,chat,"Boa tarde, Entrega rápida e tudo perfeito, recomendo a todos. Aguardo retorno.",Elogio
+48,2025-08-23,telefone,Bom dia! A transportadora entregou no endereço errado. Att.,Entrega e logística
+49,2025-02-21,e-mail,"O pagamento via Pix foi debitado, mas o sistema continua mostrando pendente. Preciso de ajuda urgente.",Cobrança e pagamento
+50,2025-06-28,e-mail,"Muito obrigado pela atenção, foi o melhor atendimento que já tive. Aguardo retorno.",Elogio
+51,2025-10-06,telefone,"Olá, O site está muito lento e a página de checkout trava.",Problema técnico
+52,2025-10-11,telefone,"Oi, Muito obrigado pela atenção, foi o melhor atendimento que já tive.",Elogio
+53,2025-02-24,app,Qual é a diferença entre o plano básico e o plano premium? Aguardo retorno.,Dúvida sobre produto
+54,2025-06-25,chat,"Olá, O site está muito lento e a página de checkout trava. Preciso de ajuda urgente.",Problema técnico
+55,2025-01-27,e-mail,"Prezados, O produto acompanha garantia estendida? Por quanto tempo? Preciso de ajuda urgente.",Dúvida sobre produto
+56,2025-03-08,telefone,,Dúvida sobre produto
+57,2025-10-15,e-mail,"Prezados, Atualizei o sistema e agora o recurso de relatórios parou de funcionar. Preciso de ajuda urgente.",Problema técnico
+58,2025-07-09,app,A fatura deste mês veio com um valor diferente do contratado. Preciso de ajuda urgente.,Cobrança e pagamento
+59,2025-07-06,e-mail,"A plataforma é muito intuitiva, estou muito satisfeito.",Elogio
+60,2025-10-14,redes sociais,A transportadora entregou no endereço errado. Att.,Entrega e logística
+61,2025-04-01,redes sociais,"Prezados, Adorei o produto, superou minhas expectativas. Parabéns à equipe.",Elogio
+62,2025-05-08,telefone,Meu boleto não foi compensado e já recebi aviso de cobrança. Obrigado.,Cobrança e pagamento
+63,2025-08-29,chat,"Oi, O aplicativo fecha sozinho toda vez que tento abrir a tela de pedidos. Obrigado.",Problema técnico
+64,2025-04-27,chat,"Oi, Atualizei o sistema e agora o recurso de relatórios parou de funcionar. Aguardo retorno.",Problema técnico
+65,2025-02-05,telefone,"Prezados, A fatura deste mês veio com um valor diferente do contratado. Obrigado.",Cobrança e pagamento
+66,2025-10-02,telefone,"Prezados, O prazo de entrega informado no site não foi cumprido. Obrigado.",Entrega e logística
+67,2025-05-16,e-mail,Meu boleto não foi compensado e já recebi aviso de cobrança.,Cobrança e pagamento
+68,2025-06-10,redes sociais,"Boa tarde, O pagamento via Pix foi debitado, mas o sistema continua mostrando pendente. Aguardo retorno.",Cobrança e pagamento
+69,2025-04-08,telefone,"Boa tarde, Atendimento excelente, o suporte resolveu meu problema em minutos! Obrigado.",Elogio
+70,2025-10-03,chat,"Prezados, O pagamento via Pix foi debitado, mas o sistema continua mostrando pendente.",Cobrança e pagamento
+71,2025-11-16,telefone,Bom dia! Meu pedido está atrasado há duas semanas e o rastreio não atualiza. Att.,Entrega e logística
+72,2025-09-17,telefone,"Oi, Esse modelo é compatível com o meu aparelho? Att.",Dúvida sobre produto
+73,2025-10-11,chat,Bom dia! O produto acompanha garantia estendida? Por quanto tempo? Obrigado.,Dúvida sobre produto
+74,2025-03-31,app,Bom dia! Atualizei o sistema e agora o recurso de relatórios parou de funcionar. Att.,Problema técnico
+75,2025-06-05,telefone,"Olá, A plataforma é muito intuitiva, estou muito satisfeito. Preciso de ajuda urgente.",Elogio
+76,2025-08-27,redes sociais,Bom dia! Recebo uma mensagem de erro ao tentar enviar arquivos pela plataforma. Preciso de ajuda urgente.,Problema técnico
+77,2025-03-28,e-mail,"Prezados, Solicitei o reembolso há 20 dias e até agora nada foi devolvido. Preciso de ajuda urgente.",Cancelamento ou reembolso
+78,2025-05-01,telefone,"Boa tarde, O prazo de entrega informado no site não foi cumprido. Aguardo retorno.",Entrega e logística
+79,2025-05-06,redes sociais,"Oi, Não consigo fazer login, aparece erro 500 depois de digitar a senha.",Problema técnico
+80,2025-11-19,app,"Oi, Atendimento excelente, o suporte resolveu meu problema em minutos! Obrigado.",Elogio
+81,2025-03-17,e-mail,"Prezados, Atualizei o sistema e agora o recurso de relatórios parou de funcionar. Obrigado.",Problema técnico
+82,2025-12-23,app,"Oi, O pagamento via Pix foi debitado, mas o sistema continua mostrando pendente.",Cobrança e pagamento
+83,2025-03-04,redes sociais,"Preciso cancelar o contrato, pois não vou mais usar o serviço.",Cancelamento ou reembolso
+84,2025-10-14,app,"Oi, Atualizei o sistema e agora o recurso de relatórios parou de funcionar. Att.",Problema técnico
+85,2025-09-16,redes sociais,"Oi, Recebi apenas um dos três itens que comprei. Preciso de ajuda urgente.",Entrega e logística
+86,2025-08-19,telefone,"Bom dia! Adorei o produto, superou minhas expectativas. Parabéns à equipe. Att.",Elogio
+87,2025-05-03,telefone,"Oi, O site está muito lento e a página de checkout trava. Preciso de ajuda urgente.",Problema técnico
+88,2025-06-13,app,Desisti da compra e gostaria de devolver o produto.,Cancelamento ou reembolso
+89,2025-03-20,chat,A fatura deste mês veio com um valor diferente do contratado.,Cobrança e pagamento
+90,2025-08-01,e-mail,"Bom dia! O pagamento via Pix foi debitado, mas o sistema continua mostrando pendente. Aguardo retorno.",Cobrança e pagamento
+91,2025-10-27,e-mail,"Oi, Atualizei o sistema e agora o recurso de relatórios parou de funcionar. Obrigado.",Problema técnico
+92,2025-06-02,redes sociais,"Bom dia! A plataforma é muito intuitiva, estou muito satisfeito.",Elogio
+93,2025-09-07,chat,"Boa tarde, Preciso cancelar o contrato, pois não vou mais usar o serviço. Preciso de ajuda urgente.",Cancelamento ou reembolso
+94,2025-12-09,redes sociais,Bom dia! Recebi apenas um dos três itens que comprei.,Entrega e logística
+95,2025-10-01,e-mail,Vocês têm esse item disponível em outras cores ou tamanhos?,Dúvida sobre produto
+96,2025-11-26,redes sociais,"Boa tarde, Preciso cancelar o contrato, pois não vou mais usar o serviço. Att.",Cancelamento ou reembolso
+97,2025-07-14,telefone,"Oi, Atualizei o sistema e agora o recurso de relatórios parou de funcionar.",Problema técnico
+98,2025-07-14,telefone,Bom dia! O site está muito lento e a página de checkout trava. Aguardo retorno.,Problema técnico
+99,2025-10-04,e-mail,,Cancelamento ou reembolso
+100,2025-01-16,chat,Meu pedido está atrasado há duas semanas e o rastreio não atualiza. Att.,Entrega e logística
+101,2025-03-06,redes sociais,"Oi, O aplicativo fecha sozinho toda vez que tento abrir a tela de pedidos. Preciso de ajuda urgente.",Problema técnico
+102,2025-05-12,telefone,Onde encontro o manual de instruções para montar o produto?,Dúvida sobre produto
+103,2025-03-25,telefone,"Boa tarde, Recebo uma mensagem de erro ao tentar enviar arquivos pela plataforma. Att.",Problema técnico
+104,2025-07-12,redes sociais,"Boa tarde, Fui cobrado duas vezes no cartão de crédito pelo mesmo pedido. Aguardo retorno.",Cobrança e pagamento
+105,2025-11-18,chat,Esse modelo é compatível com o meu aparelho? Preciso de ajuda urgente.,Dúvida sobre produto
+106,2025-03-03,app,"Prezados, Meu boleto não foi compensado e já recebi aviso de cobrança. Att.",Cobrança e pagamento
+107,2025-02-05,app,"Olá, Não reconheço uma taxa que apareceu na minha fatura. Obrigado.",Cobrança e pagamento
+108,2025-02-24,redes sociais,"Olá, Esse modelo é compatível com o meu aparelho? Obrigado.",Dúvida sobre produto
+109,2025-04-01,app,"Prezados, Recebi apenas um dos três itens que comprei. Att.",Entrega e logística
+110,2025-08-27,redes sociais,"Olá, Onde encontro o manual de instruções para montar o produto? Preciso de ajuda urgente.",Dúvida sobre produto
+111,2025-02-14,telefone,"Boa tarde, O produto acompanha garantia estendida? Por quanto tempo? Aguardo retorno.",Dúvida sobre produto
+112,2025-07-14,telefone,Como faço para encerrar minha conta e receber o estorno? Preciso de ajuda urgente.,Cancelamento ou reembolso
+113,2025-07-01,telefone,Bom dia! Meu boleto não foi compensado e já recebi aviso de cobrança.,Cobrança e pagamento
+114,2025-10-12,e-mail,"Olá, O prazo de entrega informado no site não foi cumprido. Att.",Entrega e logística
+115,2025-09-08,app,"Atendimento excelente, o suporte resolveu meu problema em minutos!",Elogio
+116,2025-08-18,e-mail,"Prezados, Atualizei o sistema e agora o recurso de relatórios parou de funcionar. Att.",Problema técnico
+117,2025-06-06,app,"Olá, A fatura deste mês veio com um valor diferente do contratado. Obrigado.",Cobrança e pagamento
+118,2025-10-09,telefone,Bom dia! O prazo de entrega informado no site não foi cumprido. Preciso de ajuda urgente.,Entrega e logística
+119,2025-04-29,e-mail,"Prezados, Recebi apenas um dos três itens que comprei. Aguardo retorno.",Entrega e logística
+120,2025-12-20,chat,O produto acompanha garantia estendida? Por quanto tempo?,Dúvida sobre produto
+121,2025-09-26,app,Atualizei o sistema e agora o recurso de relatórios parou de funcionar. Aguardo retorno.,Problema técnico
+122,2025-04-02,telefone,A transportadora entregou no endereço errado. Aguardo retorno.,Entrega e logística
+123,2025-01-28,app,"Prezados, Não reconheço uma taxa que apareceu na minha fatura.",Cobrança e pagamento
+124,2025-09-09,e-mail,"Prezados, A transportadora entregou no endereço errado. Att.",Entrega e logística
+125,2025-06-24,chat,"Boa tarde, Meu boleto não foi compensado e já recebi aviso de cobrança. Obrigado.",Cobrança e pagamento
+126,2025-07-25,redes sociais,"Olá, O pagamento via Pix foi debitado, mas o sistema continua mostrando pendente.",Cobrança e pagamento
+127,2025-10-16,telefone,"Boa tarde, Fui cobrado duas vezes no cartão de crédito pelo mesmo pedido.",Cobrança e pagamento
+128,2025-11-07,app,Fui cobrado duas vezes no cartão de crédito pelo mesmo pedido. Preciso de ajuda urgente.,Cobrança e pagamento
+129,2025-08-15,telefone,"Muito obrigado pela atenção, foi o melhor atendimento que já tive. Obrigado.",Elogio
+130,2025-11-09,e-mail,"Bom dia! Entrega rápida e tudo perfeito, recomendo a todos. Preciso de ajuda urgente.",Elogio
+131,2025-03-22,chat,"Prezados, Não consigo fazer login, aparece erro 500 depois de digitar a senha. Aguardo retorno.",Problema técnico
+132,2025-08-19,app,,Problema técnico
+133,2025-05-25,redes sociais,"Olá, Quero cancelar minha assinatura imediatamente.",Cancelamento ou reembolso
+134,2025-11-17,app,"Prezados, A fatura deste mês veio com um valor diferente do contratado. Aguardo retorno.",Cobrança e pagamento
+135,2025-04-26,chat,"Oi, Qual é a diferença entre o plano básico e o plano premium? Obrigado.",Dúvida sobre produto
+136,2025-06-07,app,"Oi, A transportadora entregou no endereço errado.",Entrega e logística
+137,2025-08-28,telefone,"Oi, Onde encontro o manual de instruções para montar o produto? Aguardo retorno.",Dúvida sobre produto
+138,2025-08-13,e-mail,Bom dia! O produto acompanha garantia estendida? Por quanto tempo? Preciso de ajuda urgente.,Dúvida sobre produto
+139,2025-05-09,e-mail,"A plataforma é muito intuitiva, estou muito satisfeito. Att.",Elogio
+140,2025-12-11,telefone,Não reconheço uma taxa que apareceu na minha fatura. Preciso de ajuda urgente.,Cobrança e pagamento
+141,2025-08-15,telefone,"Adorei o produto, superou minhas expectativas. Parabéns à equipe. Obrigado.",Elogio
+142,2025-02-16,redes sociais,"Boa tarde, Atualizei o sistema e agora o recurso de relatórios parou de funcionar. Att.",Problema técnico
+143,2025-03-24,telefone,Bom dia! O produto chegou com a embalagem violada e amassada. Aguardo retorno.,Entrega e logística
+144,2025-07-25,app,"Prezados, Como faço para encerrar minha conta e receber o estorno? Aguardo retorno.",Cancelamento ou reembolso
+145,2025-03-01,redes sociais,Bom dia! Fui cobrado duas vezes no cartão de crédito pelo mesmo pedido. Aguardo retorno.,Cobrança e pagamento
+146,2025-08-25,redes sociais,"Oi, Atendimento excelente, o suporte resolveu meu problema em minutos! Att.",Elogio
+147,2025-09-13,redes sociais,Não reconheço uma taxa que apareceu na minha fatura. Aguardo retorno.,Cobrança e pagamento
+148,2025-05-28,redes sociais,Meu boleto não foi compensado e já recebi aviso de cobrança. Preciso de ajuda urgente.,Cobrança e pagamento
+149,2025-11-08,chat,Bom dia! Esse modelo é compatível com o meu aparelho?,Dúvida sobre produto
+150,2025-07-28,e-mail,,Dúvida sobre produto
+151,2025-11-28,chat,"Oi, O aplicativo fecha sozinho toda vez que tento abrir a tela de pedidos. Obrigado.",Problema técnico
+152,2025-08-01,redes sociais,"Prezados, Desisti da compra e gostaria de devolver o produto. Preciso de ajuda urgente.",Cancelamento ou reembolso
+153,2025-04-08,app,Como faço para encerrar minha conta e receber o estorno? Preciso de ajuda urgente.,Cancelamento ou reembolso
+154,2025-08-01,telefone,"Prezados, Adorei o produto, superou minhas expectativas. Parabéns à equipe.",Elogio
+155,2025-10-28,app,"Olá, Atendimento excelente, o suporte resolveu meu problema em minutos! Aguardo retorno.",Elogio
+156,2025-06-26,telefone,Bom dia! Qual é a diferença entre o plano básico e o plano premium? Obrigado.,Dúvida sobre produto
+157,2025-06-14,chat,"Oi, Muito obrigado pela atenção, foi o melhor atendimento que já tive. Obrigado.",Elogio
+158,2025-07-30,e-mail,Onde encontro o manual de instruções para montar o produto? Obrigado.,Dúvida sobre produto
+159,2025-07-15,redes sociais,"Prezados, Recebi apenas um dos três itens que comprei. Att.",Entrega e logística
+160,2025-03-06,app,"Oi, Qual é a diferença entre o plano básico e o plano premium? Obrigado.",Dúvida sobre produto
+161,2025-08-22,e-mail,"Olá, Atendimento excelente, o suporte resolveu meu problema em minutos! Obrigado.",Elogio
+162,2025-02-08,redes sociais,Vocês têm esse item disponível em outras cores ou tamanhos? Att.,Dúvida sobre produto
+163,2025-02-11,telefone,"Olá, O prazo de entrega informado no site não foi cumprido. Att.",Entrega e logística
+164,2025-11-17,redes sociais,"Oi, Onde encontro o manual de instruções para montar o produto? Obrigado.",Dúvida sobre produto
+165,2025-12-17,telefone,"Muito obrigado pela atenção, foi o melhor atendimento que já tive.",Elogio
+166,2025-11-21,e-mail,"Prezados, O aplicativo fecha sozinho toda vez que tento abrir a tela de pedidos. Obrigado.",Problema técnico
+167,2025-01-29,telefone,Desisti da compra e gostaria de devolver o produto.,Cancelamento ou reembolso
+168,2025-07-30,app,"Olá, Recebi apenas um dos três itens que comprei.",Entrega e logística
+169,2025-11-09,redes sociais,"Oi, Qual é a diferença entre o plano básico e o plano premium?",Dúvida sobre produto
+170,2025-03-15,chat,"Prezados, Adorei o produto, superou minhas expectativas. Parabéns à equipe. Obrigado.",Elogio
+171,2025-01-05,redes sociais,"Prezados, Desisti da compra e gostaria de devolver o produto. Obrigado.",Cancelamento ou reembolso
+172,2025-06-26,app,"Prezados, O prazo de entrega informado no site não foi cumprido.",Entrega e logística
+173,2025-06-04,chat,"Prezados, Recebi apenas um dos três itens que comprei. Att.",Entrega e logística
+174,2025-10-20,telefone,"Oi, Como faço para encerrar minha conta e receber o estorno?",Cancelamento ou reembolso
+175,2025-12-04,redes sociais,"Olá, Entrega rápida e tudo perfeito, recomendo a todos.",Elogio
+176,2025-01-26,app,O prazo de entrega informado no site não foi cumprido. Att.,Entrega e logística
+177,2025-06-30,chat,Bom dia! O produto acompanha garantia estendida? Por quanto tempo?,Dúvida sobre produto
+178,2025-12-04,chat,Onde encontro o manual de instruções para montar o produto? Aguardo retorno.,Dúvida sobre produto
+179,2025-01-18,app,Esse modelo é compatível com o meu aparelho? Aguardo retorno.,Dúvida sobre produto
+180,2025-06-17,redes sociais,"Prezados, A transportadora entregou no endereço errado.",Entrega e logística
+181,2025-07-07,app,"Não consigo fazer login, aparece erro 500 depois de digitar a senha. Preciso de ajuda urgente.",Problema técnico
+182,2025-09-04,telefone,"Olá, Adorei o produto, superou minhas expectativas. Parabéns à equipe. Aguardo retorno.",Elogio
+183,2025-02-08,chat,"Oi, O produto acompanha garantia estendida? Por quanto tempo?",Dúvida sobre produto
+184,2025-07-22,e-mail,"Oi, Atualizei o sistema e agora o recurso de relatórios parou de funcionar. Preciso de ajuda urgente.",Problema técnico
+185,2025-12-11,telefone,"Boa tarde, Meu pedido está atrasado há duas semanas e o rastreio não atualiza. Obrigado.",Entrega e logística
+186,2025-08-30,e-mail,"Bom dia! Entrega rápida e tudo perfeito, recomendo a todos.",Elogio
+187,2025-02-02,redes sociais,"Boa tarde, Entrega rápida e tudo perfeito, recomendo a todos. Preciso de ajuda urgente.",Elogio
+188,2025-01-20,telefone,"Olá, Vocês têm esse item disponível em outras cores ou tamanhos?",Dúvida sobre produto
+189,2025-03-11,redes sociais,Quero cancelar minha assinatura imediatamente.,Cancelamento ou reembolso
+190,2025-03-21,redes sociais,"Olá, Preciso cancelar o contrato, pois não vou mais usar o serviço. Obrigado.",Cancelamento ou reembolso
+191,2025-05-24,e-mail,Vocês têm esse item disponível em outras cores ou tamanhos? Preciso de ajuda urgente.,Dúvida sobre produto
+192,2025-05-01,telefone,"Olá, Qual é a diferença entre o plano básico e o plano premium? Obrigado.",Dúvida sobre produto
+193,2025-11-27,telefone,"Prezados, Meu boleto não foi compensado e já recebi aviso de cobrança. Preciso de ajuda urgente.",Cobrança e pagamento
+194,2025-08-21,e-mail,Bom dia! Meu boleto não foi compensado e já recebi aviso de cobrança.,Cobrança e pagamento
+195,2025-06-20,chat,Onde encontro o manual de instruções para montar o produto?,Dúvida sobre produto
+196,2025-10-11,chat,"Oi, Recebo uma mensagem de erro ao tentar enviar arquivos pela plataforma.",Problema técnico
+197,2025-11-02,e-mail,"Adorei o produto, superou minhas expectativas. Parabéns à equipe. Aguardo retorno.",Elogio
+198,2025-03-31,e-mail,"Oi, A transportadora entregou no endereço errado.",Entrega e logística
+199,2025-05-02,app,,Dúvida sobre produto
+200,2025-08-04,app,A transportadora entregou no endereço errado. Aguardo retorno.,Entrega e logística
